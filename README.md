@@ -18,7 +18,7 @@ I have always been passionate about technology, computers and science, and I'm a
 
 ### 
 
-#### Here I will share projects involving data science, which I built or had participation in.
+#### Here I will share projects involving data science, which I built or had participation in. And some of the things I'm studying too.
 
 <!--
 **CaioAmbro/CaioAmbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
