@@ -12,6 +12,7 @@ I have always been passionate about technology, computers and science, and I'm a
 - SQL
 - Python
 - ETLs development
+- Dashboards
 - Data Warehousing
 - Data mining
 - Project Management
